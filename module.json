@@ -1,0 +1,21 @@
+{
+  "title": "CSV Importer",
+  "description": "CSVファイルを読み込んでコンソールに表示するシンプルなモジュール。",
+  "version": "1.0.0",
+  "scripts": [
+    "scripts/csv-importer.js",
+    "lib/papaparse.min.js"
+  ],
+  "manifest": "",
+  "id": "csv-importer",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "wakabadayo",
+      "discord": "wakabadayoo"
+    }
+  ]
+}
