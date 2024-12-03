@@ -1,0 +1,1 @@
+FVTTのSymple Sandbox上にて動作する、CSVデータを読み取ってcitemsやActorを作成してくれるモジュールです。
